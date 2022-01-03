@@ -34,3 +34,4 @@ console.log("</ul>")
 </ul> */}
 
 console.log(konutKredileri)
+console.log(konutKredileri)
